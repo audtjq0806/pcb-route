@@ -1,0 +1,329 @@
+\t (02:29:35) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (02:29:35)     Journal start - Wed Jul 17 14:21:02 2019
+\t (02:29:35)         Host=USER-PC User=user Pid=6064 CPUs=4
+\t (02:29:35) CmdLine= allegro.exe -p .
+\t (02:29:35) 
+\d (02:29:35) Design opened: C:/Users/user/Desktop/work/pcb deginer/demob2.brd
+\i (02:29:35) generaledit 
+\i (02:29:38) status 
+\i (02:29:38) generaledit 
+\i (02:29:46) setwindow form.status
+\i (02:29:46) FORM status done  
+\i (02:29:55) setwindow pcb
+\i (02:29:55) drag_start grid -408.0 1767.6
+\i (02:29:56) roam y 16
+\i (02:29:56) roam y 16
+\i (02:29:56) roam y 32
+\i (02:29:56) roam y 16
+\i (02:29:56) roam y 16
+\i (02:29:56) roam y 16
+\i (02:29:57) drag_stop 2152.8 -13.8
+\i (02:29:59) pick grid 1908.4 298.6
+\t (02:29:59) last pick:  1900.0 300.0
+\i (02:30:07) prepopup -297.6 1081.0
+\i (02:30:08) pick grid -267.0 1158.5
+\t (02:30:08) last pick:  -275.0 1150.0
+\i (02:30:09) pick grid 26.6 979.9
+\t (02:30:09) last pick:  25.0 975.0
+\i (02:30:10) pick grid 2018.9 916.5
+\t (02:30:10) last pick:  2025.0 925.0
+\i (02:30:12) zoom in 1 
+\i (02:30:12) setwindow pcb
+\i (02:30:12) zoom in 449.5 1210.2
+\i (02:30:12) trapsize 59
+\i (02:30:13) zoom in 1 
+\i (02:30:13) setwindow pcb
+\i (02:30:13) zoom in 449.6 1210.2
+\i (02:30:13) trapsize 29
+\i (02:30:20) zoom out 1 
+\i (02:30:20) setwindow pcb
+\i (02:30:20) zoom out 847.3 1161.4
+\i (02:30:20) trapsize 59
+\i (02:30:21) zoom out 1 
+\i (02:30:21) setwindow pcb
+\i (02:30:21) zoom out 631.1 1204.9
+\i (02:30:21) trapsize 117
+\i (02:30:21) zoom out 1 
+\i (02:30:21) setwindow pcb
+\i (02:30:21) zoom out 1225.7 1205.0
+\i (02:30:21) trapsize 235
+\i (02:30:21) zoom out 1 
+\i (02:30:21) setwindow pcb
+\i (02:30:21) zoom out 3622.1 1254.8
+\i (02:30:21) trapsize 235
+\i (02:30:23) zoom in 1 
+\i (02:30:23) setwindow pcb
+\i (02:30:23) zoom in 643.1 197.6
+\i (02:30:23) trapsize 117
+\i (02:30:27) zoom in 1 
+\i (02:30:27) setwindow pcb
+\i (02:30:27) zoom in 639.8 907.1
+\i (02:30:27) trapsize 59
+\i (02:30:30) zoom in 1 
+\i (02:30:30) setwindow pcb
+\i (02:30:30) zoom in 641.0 1028.1
+\i (02:30:30) trapsize 29
+\i (02:30:30) zoom out 1 
+\i (02:30:30) setwindow pcb
+\i (02:30:30) zoom out 641.0 1028.1
+\i (02:30:30) trapsize 59
+\i (02:30:30) zoom out 1 
+\i (02:30:30) setwindow pcb
+\i (02:30:30) zoom out 641.0 1028.1
+\i (02:30:30) trapsize 117
+\i (02:30:31) zoom out 1 
+\i (02:30:31) setwindow pcb
+\i (02:30:31) zoom out 676.2 1032.8
+\i (02:30:31) trapsize 235
+\i (02:30:32) zoom in 1 
+\i (02:30:32) setwindow pcb
+\i (02:30:32) zoom in 746.5 1471.0
+\i (02:30:32) trapsize 117
+\i (02:30:33) zoom in 1 
+\i (02:30:33) setwindow pcb
+\i (02:30:33) zoom in 722.0 1066.9
+\i (02:30:33) trapsize 59
+\i (02:31:01) pick grid 641.0 1023.5
+\t (02:31:01) last pick:  650.0 1025.0
+\i (02:31:02) prepopup 641.0 1023.5
+\i (02:31:04) pop dyn_option_select @:@Slide 
+\i (02:31:04) slide 
+\t (02:31:04) Waiting for the destination pick.
+\i (02:31:06) zoom out 1 
+\i (02:31:06) setwindow pcb
+\i (02:31:06) zoom out 773.7 862.5
+\i (02:31:06) trapsize 117
+\i (02:31:07) zoom in 1 
+\i (02:31:07) setwindow pcb
+\i (02:31:07) zoom in 754.9 869.6
+\i (02:31:07) trapsize 59
+\i (02:31:08) zoom out 1 
+\i (02:31:08) setwindow pcb
+\i (02:31:08) zoom out 1184.8 802.7
+\i (02:31:08) trapsize 117
+\i (02:31:09) zoom out 1 
+\i (02:31:09) setwindow pcb
+\i (02:31:09) zoom out 1364.3 619.5
+\i (02:31:09) trapsize 235
+\i (02:31:10) zoom in 1 
+\i (02:31:10) setwindow pcb
+\i (02:31:10) zoom in 1183.5 662.8
+\i (02:31:10) trapsize 117
+\i (02:31:11) zoom in 1 
+\i (02:31:11) setwindow pcb
+\i (02:31:11) zoom in 1765.1 881.3
+\i (02:31:11) trapsize 59
+\i (02:31:13) pick grid 1384.6 990.5
+\t (02:31:13) last pick:  1375.0 1000.0
+\t (02:31:13) No DRC errors detected.
+\i (02:31:14) generaledit 
+\i (02:31:16) prepopup 1378.7 991.7
+\i (02:31:17) pick grid 1386.9 996.4
+\t (02:31:17) last pick:  1375.0 1000.0
+\i (02:31:18) prepopup 1386.9 996.4
+\i (02:31:20) pop dyn_option_select @:@Slide 
+\i (02:31:20) slide 
+\t (02:31:20) Waiting for the destination pick.
+\i (02:31:27) pick grid 1388.1 998.8
+\t (02:31:27) last pick:  1400.0 1000.0
+\t (02:31:27) No DRC errors detected.
+\i (02:31:27) generaledit 
+\i (02:31:48) save_as 
+\i (02:31:55) fillin "menu_cancel"
+\i (02:31:55) generaledit 
+\i (02:31:57) open 
+\e (02:31:57) Do you want to save the changes you made to demob2.brd?
+\i (02:31:59) fillin no 
+\i (02:32:04) fillin "demob2.brd"
+\t (02:32:04) Opening existing design...
+\i (02:32:04) trapsize 117
+\d (02:32:04) Design opened: C:/Users/user/Desktop/work/pcb deginer/demob2.brd
+\i (02:32:04) generaledit 
+\i (02:32:26) pick grid 1767.5 1706.6
+\t (02:32:26) last pick:  1775.0 1700.0
+\i (02:33:20) show element 
+\i (02:33:23) pick grid 428.4 1342.4
+\t (02:33:23) last pick:  425.0 1350.0
+\i (02:33:25) zoom out 1 
+\i (02:33:25) setwindow pcb
+\i (02:33:25) zoom out 1920.2 1196.7
+\i (02:33:25) trapsize 235
+\i (02:33:25) zoom out 1 
+\i (02:33:25) setwindow pcb
+\i (02:33:25) zoom out 4247.1 916.5
+\i (02:33:25) trapsize 235
+\i (02:33:26) zoom in 1 
+\i (02:33:26) setwindow pcb
+\i (02:33:26) zoom in 4247.1 916.5
+\i (02:33:26) trapsize 117
+\i (02:33:27) setwindow text
+\i (02:33:27) close 
+\i (02:33:30) setwindow pcb
+\i (02:33:30) prepopup 1880.3 1076.3
+\i (02:33:33) cancel 
+\i (02:33:33) generaledit 
+\i (02:33:46) zoom in 1 
+\i (02:33:46) setwindow pcb
+\i (02:33:46) zoom in 1335.2 1151.5
+\i (02:33:46) trapsize 59
+\i (02:33:47) zoom out 1 
+\i (02:33:47) setwindow pcb
+\i (02:33:47) zoom out 991.0 1217.3
+\i (02:33:47) trapsize 117
+\i (02:34:13) prepopup 1873.2 961.3
+\i (02:34:13) pick grid 1847.4 1008.3
+\t (02:34:13) last pick:  1850.0 1000.0
+\i (02:34:14) zoom in 1 
+\i (02:34:14) setwindow pcb
+\i (02:34:14) zoom in 317.9 1123.4
+\i (02:34:14) trapsize 59
+\i (02:34:15) zoom in 1 
+\i (02:34:15) setwindow pcb
+\i (02:34:15) zoom in 326.2 1124.6
+\i (02:34:15) trapsize 29
+\i (02:34:36) zoom out 1 
+\i (02:34:36) setwindow pcb
+\i (02:34:36) zoom out 377.9 988.3
+\i (02:34:36) trapsize 59
+\i (02:34:36) zoom out 1 
+\i (02:34:36) setwindow pcb
+\i (02:34:36) zoom out 378.0 988.4
+\i (02:34:36) trapsize 117
+\i (02:34:36) zoom out 1 
+\i (02:34:36) setwindow pcb
+\i (02:34:36) zoom out 377.9 988.4
+\i (02:34:36) trapsize 235
+\i (02:34:37) zoom in 1 
+\i (02:34:37) setwindow pcb
+\i (02:34:37) zoom in 1061.3 376.2
+\i (02:34:37) trapsize 117
+\i (02:34:37) zoom in 1 
+\i (02:34:37) setwindow pcb
+\i (02:34:37) zoom in 325.0 376.2
+\i (02:34:37) trapsize 59
+\i (02:34:45) zoom out 1 
+\i (02:34:45) setwindow pcb
+\i (02:34:45) zoom out 184.0 609.9
+\i (02:34:45) trapsize 117
+\i (02:34:46) zoom out 1 
+\i (02:34:46) setwindow pcb
+\i (02:34:46) zoom out 43.1 610.0
+\i (02:34:46) trapsize 235
+\i (02:34:47) zoom in 1 
+\i (02:34:47) setwindow pcb
+\i (02:34:47) zoom in -606.7 1658.9
+\i (02:34:47) trapsize 117
+\i (02:34:47) zoom out 1 
+\i (02:34:47) setwindow pcb
+\i (02:34:47) zoom out 1460.7 977.6
+\i (02:34:47) trapsize 235
+\i (02:34:48) zoom in 1 
+\i (02:34:48) setwindow pcb
+\i (02:34:48) zoom in 948.5 709.8
+\i (02:34:48) trapsize 117
+\i (02:34:49) zoom out 1 
+\i (02:34:49) setwindow pcb
+\i (02:34:49) zoom out 395.5 700.4
+\i (02:34:49) trapsize 235
+\i (02:34:50) zoom in 1 
+\i (02:34:50) setwindow pcb
+\i (02:34:50) zoom in 511.6 1259.5
+\i (02:34:50) trapsize 117
+\i (02:35:13) prepopup 1812.1 733.3
+\i (02:35:14) pick grid 1849.7 963.5
+\t (02:35:14) last pick:  1850.0 975.0
+\i (02:35:25) zoom in 1 
+\i (02:35:25) setwindow pcb
+\i (02:35:25) zoom in 1316.4 1158.5
+\i (02:35:25) trapsize 59
+\i (02:35:25) zoom in 1 
+\i (02:35:25) setwindow pcb
+\i (02:35:25) zoom in 1316.4 1158.5
+\i (02:35:25) trapsize 29
+\i (02:35:25) zoom in 1 
+\i (02:35:25) setwindow pcb
+\i (02:35:25) zoom in 1316.5 1158.5
+\i (02:35:25) trapsize 15
+\i (02:35:28) zoom out 1 
+\i (02:35:28) setwindow pcb
+\i (02:35:28) zoom out 1131.8 1124.8
+\i (02:35:28) trapsize 29
+\i (02:35:28) zoom out 1 
+\i (02:35:28) setwindow pcb
+\i (02:35:28) zoom out 1131.8 1124.8
+\i (02:35:28) trapsize 59
+\i (02:35:28) zoom out 1 
+\i (02:35:28) setwindow pcb
+\i (02:35:28) zoom out 1131.8 1124.7
+\i (02:35:28) trapsize 117
+\i (02:35:29) zoom out 1 
+\i (02:35:29) setwindow pcb
+\i (02:35:29) zoom out 985.2 720.7
+\i (02:35:29) trapsize 235
+\i (02:35:30) zoom in 1 
+\i (02:35:30) setwindow pcb
+\i (02:35:30) zoom in 539.7 714.5
+\i (02:35:30) trapsize 117
+\i (02:35:31) zoom in 1 
+\i (02:35:31) setwindow pcb
+\i (02:35:31) zoom in 66.6 714.5
+\i (02:35:31) trapsize 59
+\i (02:36:27) setwindow form.find
+\i (02:36:27) FORM find name_type Symbol (or Pin) 
+\i (02:36:28) FORM find all_off  
+\i (02:36:30) FORM find cline_segs YES 
+\i (02:36:33) FORM find clines YES 
+\i (02:36:36) FORM find cline_segs NO 
+\i (02:36:40) FORM find cline_segs YES 
+\i (02:36:45) FORM find cline_segs NO 
+\i (02:36:47) FORM find lines YES 
+\i (02:36:51) FORM find clines NO 
+\i (02:36:56) FORM find clines YES 
+\i (02:36:56) FORM find lines NO 
+\i (02:37:02) FORM find all_on  
+\i (02:37:03) FORM find groups NO 
+\i (02:37:05) setwindow pcb
+\i (02:37:05) zoom out 1 
+\i (02:37:05) setwindow pcb
+\i (02:37:05) zoom out 1002.8 378.6
+\i (02:37:05) trapsize 117
+\i (02:37:05) zoom out 1 
+\i (02:37:05) setwindow pcb
+\i (02:37:05) zoom out 1557.0 376.3
+\i (02:37:05) trapsize 235
+\i (02:37:06) zoom in 1 
+\i (02:37:06) setwindow pcb
+\i (02:37:06) zoom in 1098.9 413.8
+\i (02:37:06) trapsize 117
+\i (02:37:06) zoom in 1 
+\i (02:37:06) setwindow pcb
+\i (02:37:06) zoom in 346.1 413.8
+\i (02:37:06) trapsize 59
+\i (02:37:06) zoom in 1 
+\i (02:37:06) setwindow pcb
+\i (02:37:06) zoom in 335.6 416.1
+\i (02:37:06) trapsize 29
+\i (02:37:06) zoom out 1 
+\i (02:37:06) setwindow pcb
+\i (02:37:06) zoom out 332.1 416.7
+\i (02:37:06) trapsize 59
+\i (02:37:06) zoom out 1 
+\i (02:37:06) setwindow pcb
+\i (02:37:06) zoom out 332.0 416.7
+\i (02:37:06) trapsize 117
+\i (02:37:06) zoom out 1 
+\i (02:37:06) setwindow pcb
+\i (02:37:06) zoom out 310.9 416.7
+\i (02:37:06) trapsize 235
+\i (02:37:07) zoom in 1 
+\i (02:37:07) setwindow pcb
+\i (02:37:07) zoom in -57.0 1499.2
+\i (02:37:07) trapsize 117
+\i (02:37:10) open 
+\e (02:37:10) Do you want to save the changes you made to demob2.brd?
+\i (02:37:11) fillin no 
+\i (02:37:30) fillin "C:\Users\user\Desktop\work\samples\layout_samples_r02\layout_samples_r02\democ\democ2.brd"
+\i (02:37:30) cd "C:\Users\user\Desktop\work\samples\layout_samples_r02\layout_samples_r02\democ"
+\t (02:37:30) Opening existing design...
+\i (02:37:30) trapsize 570
+\t (02:37:30)     Journal end - Wed Jul 17 14:28:58 2019
